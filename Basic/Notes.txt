@@ -1,0 +1,56 @@
+📚 Learning Path (React from 0 → Intermediate)
+Phase 1: Basics of Web & React (Foundations)
+
+HTML, CSS, JavaScript refresher (only what’s needed for React)
+
+What is React? Why use it?
+
+Setting up a React project (Vite or Create React App)
+
+JSX basics (embedding JS inside HTML-like syntax)
+
+Components (functional components, props)
+
+State & Hooks (useState, useEffect)
+
+✅ Project: Counter app, To-do list
+
+Phase 2: Moving Towards Intermediate
+
+Event handling & forms
+
+Lists & keys
+
+Conditional rendering
+
+Component reusability
+
+Context API (for global state)
+
+React Router (multi-page apps)
+
+✅ Project: Notes app, Multi-page blog
+
+Phase 3: Intermediate Concepts
+
+Custom hooks
+
+Performance optimization (React.memo, useCallback, useMemo)
+
+Fetching data with fetch / axios
+
+Error handling & loading states
+
+Basic state management (Context vs Redux toolkit intro)
+
+✅ Project: Weather app, E-commerce product catalog
+
+Phase 4: Deployment & Next Steps
+
+Styling options (Tailwind, styled-components, CSS modules)
+
+Deployment on Vercel/Netlify
+
+Best practices & folder structure
+
+Preparing for Next.js (if you want SSR/SSG later)
