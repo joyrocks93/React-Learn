@@ -1,0 +1,57 @@
+/*
+.container {
+  display: flex;        
+  flex-direction: row ; 
+  justify-content: center; 
+  align-items: center;      
+  gap: 10px;               
+}
+
+ .box {
+  background: lightblue;
+  padding: 20px;
+  border: 1px solid #000;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.item {
+  background: lightgreen;
+  padding: 20px;
+  border: 1px solid #000;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*flexbox learning*/
+/* html, body {
+  height: 100%;    
+ 
+  margin: 0; 
+}
+ .container {
+  display: flex;        
+  height: 100vh;        
+  flex-direction: row;
+} 
+
+.sidebar {
+  flex : 0 0 0%;          
+  background-color: lightblue;
+  padding: 20px;
+}
+
+.main {
+  flex: 1;             
+  background-color: lightgray;
+  padding: 20px;
+  
+} */
+
