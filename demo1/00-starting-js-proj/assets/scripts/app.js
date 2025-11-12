@@ -66,13 +66,65 @@
 // console.log(username);  
 // console.log(age);
 
-const hobb=["pop","LOP","HOP"];
-const user={
-    name:"Max",
-    age:24
-};
-const newhobbies=["Reading"];
+// const hobb=["pop","LOP","HOP"];
+// const user={
+//     name:"Max",
+//     age:24
+// };
+// const newhobbies=["Reading"];
 
-const merge=[hobb,newhobbies];
-console.log(merge);
+// const merge=[...hobb,...newhobbies];
+// console.log(merge);
 
+// const exUser={
+//     isAdmin:true,
+//     ...user
+// }
+// console.log(exUser);
+
+// const password =prompt("AYour password")
+
+// if(password==="Hello"){
+//     console.log("Hello works");
+// }
+// else if(password==="hello"){
+//     console.log("hello works");
+// }
+// else{
+//     console.log("Access not granted");
+// }
+
+// const hobb=["sport","cooking"];
+
+// for(const hobbe of hobb){
+//     console.log(hobbe);
+// }
+// function handle1(){
+//     console.log("time out");
+// }
+
+// const handle2 =()=>{
+//     console.log("timed out....again!");
+// };
+
+// setTimeout(handle1,2000)
+// setTimeout(handle2,3000)
+// setTimeout(()=>{
+//     console.log("More time out");   
+// },4000)
+
+// function greet(gro){
+//     gro();
+// }
+
+// greet(()=>{
+//     console.log("hi");
+// })
+
+// function inti(){
+//     function greet(){
+//         console.log("hello");   
+//     }
+//     greet();
+// }
+// inti()
